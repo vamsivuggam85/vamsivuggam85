@@ -2,7 +2,7 @@
 
 ### ☕ Java Developer | Aspiring Full-Stack Developer
 
-I'm an aspiring Java Developer passionate about building practical applications, writing clean code, and continuously improving my problem-solving skills.
+I'm an aspiring Java Developer passionate about building practical applications, writing clean code, and improving my problem-solving skills.
 
 - 🔭 Building projects using Java and web technologies
 - 🌱 Learning Spring Boot, REST APIs, Hibernate, and database integration
@@ -13,20 +13,15 @@ I'm an aspiring Java Developer passionate about building practical applications,
 
 ## 🛠️ Technical Skills
 
-**Languages**  
-☕ Java · SQL · JavaScript
+**Languages:** Java · SQL · JavaScript
 
-**Backend Development**  
-Spring Core · Spring Boot · JDBC · Hibernate · JPA · REST API Basics
+**Backend:** Spring Core · Spring Boot · JDBC · Hibernate · JPA · REST API Basics
 
-**Frontend Development**  
-HTML5 · CSS3 · JavaScript
+**Frontend:** HTML5 · CSS3 · JavaScript
 
-**Databases**  
-PostgreSQL · MySQL
+**Databases:** PostgreSQL · MySQL
 
-**Tools & IDEs**  
-Git · GitHub · IntelliJ IDEA · Eclipse · VS Code · Postman
+**Tools:** Git · GitHub · IntelliJ IDEA · Eclipse · VS Code · Postman
 
 ---
 
@@ -34,7 +29,7 @@ Git · GitHub · IntelliJ IDEA · Eclipse · VS Code · Postman
 
 ### 🚖 1. Cab Booking Mini-System
 
-A Java-based cab booking application for managing customers, drivers, cabs, and bookings.
+A Java-based application for managing customers, drivers, cabs, and bookings.
 
 **Tech Stack:** Java · Hibernate · JPA · PostgreSQL · Maven
 
@@ -89,7 +84,7 @@ My personal portfolio website showcasing my background and development work.
 
 💻 [GitHub Profile](https://github.com/vamsivuggam85)
 
-🔗 [LinkedIn Profile](ADD_YOUR_LINKEDIN_URL_HERE)
+🔗 LinkedIn: Add your LinkedIn profile URL
 
 ---
 
